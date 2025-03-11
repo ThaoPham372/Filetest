@@ -1,0 +1,1 @@
+Vấn đề là khi đọc tệp, thao tác split(",") giữ lại khoảng trắng sau dấu phẩy, gây ra lỗi phân tích cú pháp. Khoảng trắng trong "3" và "6" ngăn không cho chuỗi được phân tích cú pháp đúng dưới dạng số nguyên.
